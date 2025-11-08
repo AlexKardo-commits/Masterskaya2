@@ -1,0 +1,10 @@
+.
+├── purchase_prediction_project.ipynb   # Основной notebook
+├── README.md                            # Документация
+├── requirements.txt                     # Зависимости
+├── final_model.pkl                      # Обученная модель
+├── feature_names.pkl                    # Список признаков
+├── optimal_threshold.pkl                # Порог классификации
+├── predict_function.pkl                 # Функция предсказания
+├── business_client_segments.csv         # Сегментация клиентов
+└── PROJECT_REPORT.txt                   # Детальный отчёт
